@@ -1,0 +1,18 @@
+.fakeimg {
+    height: 200px;
+    background:#EE82EE;
+}
+
+li{list-style-type:none;}
+
+
+.ul li{
+    float :left;
+    margin:0 10px;
+    text-align:justify;
+}
+
+#myCarousel  .carousel-inner  .item {
+    height: 200px;
+    overflow: hidden;
+}
